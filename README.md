@@ -1,2 +1,2 @@
-# SamplePortfolio
-A portfolio for School
+# SampleResume
+A Resume for School
